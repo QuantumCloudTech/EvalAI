@@ -1,0 +1,1 @@
+import{_ as s,aH as a,o as t,c as n,a as e,as as _,b_ as c}from"./index-f743b3f6.js";const r={class:"container"},d={class:"operation"},i={__name:"Index",setup(p){return(l,m)=>{const o=a("router-view");return t(),n("div",r,[e("div",d,[_(c)]),e("main",null,[_(o)])])}}},v=s(i,[["__scopeId","data-v-2a53b1be"]]);export{v as default};
