@@ -24,7 +24,5 @@
     "unplugin-auto-import": "^0.16.6",
     "unplugin-vue-components": "^0.25.2",
     "vite": "^4.4.9"
-  },
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d docs"
+  }
 }
